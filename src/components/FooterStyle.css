@@ -1,0 +1,55 @@
+.main-footer {
+    color: white;
+    background-color: #dc3545;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 40px;
+  }
+
+
+.list-style{
+    list-style: none;
+}
+            
+ ui li{
+    list-style: none;
+    font-size: larger;
+
+  }
+
+  .col h4{
+    font-size: 2rem;
+    color: #111;
+  }
+
+  .list-styled li{
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-style: bold;
+  } 
+
+  .col-service h4{
+    font-size: xx-large;
+    color: #111;
+
+  }
+
+  .col-social{
+    font-size: x-large;
+    color: #111;
+  }
+
+  .col-social li:hover{
+    color: aliceblue;
+    transition: all 0.5s;
+  }
+
+
+  .col-sm{
+    font-size: large;
+    margin-bottom: 5px;
+    color: #111;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
