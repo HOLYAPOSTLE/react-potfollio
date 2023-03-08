@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-potfollio/static/css/main.5810fa5a.css",
+    "main.js": "/react-potfollio/static/js/main.fdacc7f8.js",
+    "static/media/tiger.png": "/react-potfollio/static/media/tiger.40caf8bf96b42118854e.png",
+    "static/media/snake.jpg": "/react-potfollio/static/media/snake.c3a9d39ae3e7a616abc5.jpg",
+    "index.html": "/react-potfollio/index.html",
+    "main.5810fa5a.css.map": "/react-potfollio/static/css/main.5810fa5a.css.map",
+    "main.fdacc7f8.js.map": "/react-potfollio/static/js/main.fdacc7f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5810fa5a.css",
+    "static/js/main.fdacc7f8.js"
+  ]
+}
